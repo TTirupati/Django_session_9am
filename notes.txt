@@ -1,1 +1,2 @@
 session1 completed
+session2 started its in progress
